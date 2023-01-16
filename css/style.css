@@ -1,0 +1,65 @@
+#welcome{
+    background-color: #87509c;
+}
+.container{
+    width: 80%;
+}
+.nav-item>.nav-link{
+    color: white;
+}
+.nav-item{
+    margin-right: 10px;
+    padding: 0px 10px;
+    border-radius:5px ;
+
+}
+.nav-item:hover{
+    background-color: #643a79;
+    border-radius:5px ;
+    padding: 0px 10px;
+}
+
+.logo{
+    width: 90%;
+}
+#work-btn{
+    background-color: #eb7d4b;
+    color: white;
+    padding: 10px 50px;
+    margin: 40px 0px 50px 0px;
+}
+#service{
+    background-color:#17c2a4 ;
+    color: white;
+}
+#text-size{
+    font-size: 30px;
+}
+#line{
+    background-color: #14a58c;
+    height: 3px;
+    width: 55px;
+}
+#icon{
+    height: 90px;
+}
+.text-spacing{
+   padding: 5px 35px 50px 35px;
+}
+#team-work{
+    background-color:#e7f1f8 ;
+}
+#line-2{
+    background-color: #c8d9e5;
+    height: 3px;
+    width: 55px;
+}
+.team-link{
+    text-decoration: none;
+}
+.img-circle{
+    background-color: #878787;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+}
