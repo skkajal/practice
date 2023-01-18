@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+body{
+    font-family: 'Titillium Web', sans-serif;
+
+}
 #welcome{
     background-color: #87509c;
 }
@@ -17,6 +22,11 @@
     background-color: #643a79;
     border-radius:5px ;
     padding: 0px 10px;
+}
+#active{
+    background-color: #643a79;
+    padding: 10px 10px;
+    border-radius: 5px;
 }
 
 .logo{
@@ -62,4 +72,91 @@
     width: 180px;
     height: 180px;
     border-radius: 100%;
+}
+.text-spacing-1{
+    padding: 5px 35px 5px 35px;
+ }
+ .social-icon{
+    padding-bottom: 40px;
+ }
+ .social-icon a i{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #bdd1df;
+    line-height: 30px;
+    margin-right: 8px;
+    color: white;
+ }
+ .social-icon a i:hover{
+    color: blue;
+    background-color: white;
+
+ }
+ #skill{
+    background-color:#ffffff ;
+ }
+ #portfolio{
+    background-color: #ffdd99;
+ }
+ #line-3{
+    background-color: #e5c37f;
+    height: 3px;
+    width: 55px;
+}
+.button-nav button{
+    background-color: #e5c37f;
+    border: none;
+    padding: 3px 15px 3px 15px;
+    margin-right: 8px;
+}
+.button-nav{
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+.button-nav .active{
+    background-color: #ffffff;
+}
+#projects-btn{
+    background-color: #17c2a4;
+    color: white;
+    padding: 10px 50px;
+    margin: 40px 0px 50px 0px;
+}
+.img-circle-1{
+    background-color: #878787;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    margin-left: 165px;
+}
+#about{
+    background-color: #d74680;
+    color: white;
+ }
+ #seo{
+    color:#f0ab8f ;
+ }
+ #line-4{
+    background-color: #b73c6d;
+    height: 3px;
+    width: 55px;
+}
+#touch{
+    background-color: #3c5499;
+    color: white;
+}
+#line-5{
+    background-color: #273a71;
+    height: 3px;
+    width: 55px;
+}
+#footer{
+    background-color: #344b8e;
+}
+#icon-btn button a{
+    border: none;
+    background-color: #344b8e;
+    color: white;
+    text-decoration: none;
 }
